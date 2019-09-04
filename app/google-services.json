@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "291113419149",
+    "firebase_url": "https://alara-ad32e.firebaseio.com",
+    "project_id": "alara-ad32e",
+    "storage_bucket": "alara-ad32e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291113419149:android:788677632199302d",
+        "android_client_info": {
+          "package_name": "com.myapp.alara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291113419149-954jbkug23u9b5sbfma7mk436pp824vv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapp.alara",
+            "certificate_hash": "7f237da4618fd3ea4b16e410e6367aeff9afa6f2"
+          }
+        },
+        {
+          "client_id": "291113419149-tmtiir3nbfrpjpu26csitbt7qopq5364.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5hOknHMQ1Umuif9VIvXPvT4TfjZYz5VY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291113419149-tmtiir3nbfrpjpu26csitbt7qopq5364.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
